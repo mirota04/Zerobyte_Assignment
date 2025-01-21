@@ -1,0 +1,6 @@
+com/logistics/transfer/CheapestTransferRouteApplication.class
+com/logistics/transfer/controller/TransferController.class
+com/logistics/transfer/model/Transfer.class
+com/logistics/transfer/dto/TransferRequest.class
+com/logistics/transfer/dto/TransferResponse.class
+com/logistics/transfer/service/TransferService.class

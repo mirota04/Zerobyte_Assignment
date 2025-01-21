@@ -1,0 +1,6 @@
+/home/irakli/Zirobyte/cheapesttransfer/src/main/java/com/logistics/transfer/model/Transfer.java
+/home/irakli/Zirobyte/cheapesttransfer/src/main/java/com/logistics/transfer/dto/TransferResponse.java
+/home/irakli/Zirobyte/cheapesttransfer/src/main/java/com/logistics/transfer/controller/TransferController.java
+/home/irakli/Zirobyte/cheapesttransfer/src/main/java/com/logistics/transfer/service/TransferService.java
+/home/irakli/Zirobyte/cheapesttransfer/src/main/java/com/logistics/transfer/CheapestTransferRouteApplication.java
+/home/irakli/Zirobyte/cheapesttransfer/src/main/java/com/logistics/transfer/dto/TransferRequest.java
