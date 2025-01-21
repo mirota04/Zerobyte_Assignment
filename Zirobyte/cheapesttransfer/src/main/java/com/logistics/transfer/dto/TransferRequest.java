@@ -7,7 +7,6 @@ public class TransferRequest {
     private int maxWeight;
     private List<Transfer> availableTransfers;
 
-    // Add setters for Jackson to use during deserialization
     public void setMaxWeight(int maxWeight) {
         this.maxWeight = maxWeight;
     }
